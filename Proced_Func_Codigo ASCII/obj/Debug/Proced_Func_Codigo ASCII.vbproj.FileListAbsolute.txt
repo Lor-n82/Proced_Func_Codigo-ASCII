@@ -1,0 +1,11 @@
+C:\Users\loren\source\repos\Proced_Func_Codigo ASCII\Proced_Func_Codigo ASCII\obj\Debug\Proced_Func_Codigo ASCII.vbprojResolveAssemblyReference.cache
+C:\Users\loren\source\repos\Proced_Func_Codigo ASCII\Proced_Func_Codigo ASCII\obj\Debug\Proced_Func_Codigo_ASCII.Resources.resources
+C:\Users\loren\source\repos\Proced_Func_Codigo ASCII\Proced_Func_Codigo ASCII\obj\Debug\Proced_Func_Codigo ASCII.vbproj.GenerateResource.Cache
+C:\Users\loren\source\repos\Proced_Func_Codigo ASCII\Proced_Func_Codigo ASCII\obj\Debug\Proced_Func_Codigo ASCII.vbproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\Proced_Func_Codigo ASCII\Proced_Func_Codigo ASCII\bin\Debug\Proced_Func_Codigo ASCII.exe.config
+C:\Users\loren\source\repos\Proced_Func_Codigo ASCII\Proced_Func_Codigo ASCII\bin\Debug\Proced_Func_Codigo ASCII.exe
+C:\Users\loren\source\repos\Proced_Func_Codigo ASCII\Proced_Func_Codigo ASCII\bin\Debug\Proced_Func_Codigo ASCII.pdb
+C:\Users\loren\source\repos\Proced_Func_Codigo ASCII\Proced_Func_Codigo ASCII\bin\Debug\Proced_Func_Codigo ASCII.xml
+C:\Users\loren\source\repos\Proced_Func_Codigo ASCII\Proced_Func_Codigo ASCII\obj\Debug\Proced_Func_Codigo ASCII.exe
+C:\Users\loren\source\repos\Proced_Func_Codigo ASCII\Proced_Func_Codigo ASCII\obj\Debug\Proced_Func_Codigo ASCII.xml
+C:\Users\loren\source\repos\Proced_Func_Codigo ASCII\Proced_Func_Codigo ASCII\obj\Debug\Proced_Func_Codigo ASCII.pdb
